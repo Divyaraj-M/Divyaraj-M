@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Business Analytics<br>👯 I’m looking to collaborate on real-life projects<br>🤝 I want you help me to work for you <br>🌱 I’m currently learning Python and SQL<br>💬 Ask me about Business analytics and data<br>⚡ Fun fact: I'm little bit of procrastinator and perfectionist
+🔭 I’m currently working on Business Analytics<br>👯 I’m looking to collaborate on real-life projects<br>🤝 I want you help me to work for you <br>🌱 I’m currently learning Python and SQL<br>💬 Ask me about Business analytics and data<br.>
 
 
 ## 🌐 Socials:
