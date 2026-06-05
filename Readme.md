@@ -76,21 +76,6 @@ Product Manager with **2+ years** across B2B SaaS, product analytics, and workfl
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divyaraj-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyaraj-M&layout=compact&theme=tokyonight" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyaraj-M&theme=tokyonight" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 📫 Get in Touch
 
 Always up for talking product, swapping notes, or hearing about an interesting problem.
