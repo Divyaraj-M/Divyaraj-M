@@ -2,7 +2,6 @@
   GitHub Profile README — Divyaraj Murugan (Divi)
   To use: create a repo named EXACTLY "Divyaraj-M", drop this file in as README.md.
 -->
-
 <div align="center">
 
 # Hi, I'm Divi 👋
@@ -26,11 +25,12 @@ Turning customer problems into shipped features — from user research and PRDs 
 
 ## 🧭 About Me
 
-Product Manager with **2+ years** across B2B SaaS, product analytics, and workflow-heavy enterprise products. Currently an **Associate Product Manager at SurveySparrow (SparrowGenie)**, owning AI-powered sales and CRM-adjacent workflow features end to end — user research, PRDs, roadmap execution, sprint planning, and post-launch tracking.
+Product Manager with **2+ years** across B2B SaaS, product analytics, and workflow-heavy enterprise products. Currently an **Associate Product Manager at SurveySparrow**, working across **SparrowGenie** and **SparrowCRM** — owning AI-powered sales and CRM workflow features end to end: user research, PRDs, roadmap execution, sprint planning, and post-launch tracking.
 
-- 🔭 Building the **0→1 RFP Automation module** at SparrowGenie — AI-driven proposal generation and multi-role sales workflows
+- 🔭 Building **AI agents, integrations & CRM intelligence at [SparrowCRM](https://www.sparrowcrm.com/)** — helping sales teams close more deals instead of drowning in admin work
+- 🚀 Shipped the **0→1 RFP Automation module** at [SparrowGenie](https://sparrowgenie.com/) — AI-driven proposal generation and multi-role sales workflows
 - 🌱 Founder of **[Curious Geeks](https://curiousgeekspm.com)** — a community-led product discovery platform for builders, PMs, and makers
-- 💬 Ask me about **product discovery, roadmapping, multi-role workflows, A/B testing, and product analytics**
+- 💬 Ask me about **product discovery, roadmapping, AI agents, multi-role workflows, A/B testing, and product analytics**
 - 🎓 MBA (Systems) · B.Sc. Psychology
 
 ---
@@ -63,7 +63,7 @@ Product Manager with **2+ years** across B2B SaaS, product analytics, and workfl
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-`Prompt Design` · `LLM Output Evaluation` · `AI Acceptance Criteria` · `Apps Script Automation`
+`AI Agents` · `Prompt Design` · `LLM Output Evaluation` · `AI Acceptance Criteria` · `Apps Script Automation`
 
 ---
 
@@ -71,7 +71,8 @@ Product Manager with **2+ years** across B2B SaaS, product analytics, and workfl
 
 | Project | What it is | Highlights |
 |---|---|---|
-| **SparrowGenie — RFP Automation** | 0→1 AI-powered proposal generation & sales workflow module at SurveySparrow | Shipped 3 feature sets in <4 months · cut proposal turnaround **25%** · role-based notification engine reduced alert volume **60%** |
+| **[SparrowCRM](https://www.sparrowcrm.com/) — AI Agents & CRM Intelligence** | AI agents, integrations & CRM intelligence at SurveySparrow — surfacing insights and automating admin work so sales teams focus on closing deals | Building agentic workflows across the CRM · integrations connecting sales tools into one intelligent layer |
+| **[SparrowGenie](https://sparrowgenie.com/) — RFP Automation** | 0→1 AI-powered proposal generation & sales workflow module at SurveySparrow | Shipped 3 feature sets in <4 months · cut proposal turnaround **25%** · role-based notification engine reduced alert volume **60%** |
 | **[Curious Geeks](https://curiousgeekspm.com)** | Founder/builder of a community-led product discovery platform for builders, PMs & makers | Launched V1 with submission & content-discovery flows · evolving toward a Product Hunt-style discovery loop |
 
 ---
