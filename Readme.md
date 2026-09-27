@@ -11,7 +11,7 @@
 Turning customer problems into shipped features — from user research and PRDs to roadmaps, launches, and post-launch analytics.
 
 <p>
-  <a href="https://www.linkedin.com/in/divyarajmurugan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/divyaraj-murugan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://curiousgeekspm.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:divyaraj12112001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Chennai,%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -30,6 +30,7 @@ Product Manager with **2+ years** across B2B SaaS, product analytics, and workfl
 - 🔭 Building **AI agents, integrations & CRM intelligence at [SparrowCRM](https://www.sparrowcrm.com/)** — helping sales teams close more deals instead of drowning in admin work
 - 🚀 Shipped the **0→1 RFP Automation module** at [SparrowGenie](https://sparrowgenie.com/) — AI-driven proposal generation and multi-role sales workflows
 - 🌱 Founder of **[Curious Geeks](https://curiousgeekspm.com)** — a community-led product discovery platform for builders, PMs, and makers
+- 🧩 Building side products: **Wireframy** and the **Star Tracker** plugin
 - 💬 Ask me about **product discovery, roadmapping, AI agents, multi-role workflows, A/B testing, and product analytics**
 - 🎓 MBA (Systems) · B.Sc. Psychology
 
@@ -74,6 +75,8 @@ Product Manager with **2+ years** across B2B SaaS, product analytics, and workfl
 | **[SparrowCRM](https://www.sparrowcrm.com/) — AI Agents & CRM Intelligence** | AI agents, integrations & CRM intelligence at SurveySparrow — surfacing insights and automating admin work so sales teams focus on closing deals | Building agentic workflows across the CRM · integrations connecting sales tools into one intelligent layer |
 | **[SparrowGenie](https://sparrowgenie.com/) — RFP Automation** | 0→1 AI-powered proposal generation & sales workflow module at SurveySparrow | Shipped 3 feature sets in <4 months · cut proposal turnaround **25%** · role-based notification engine reduced alert volume **60%** |
 | **[Curious Geeks](https://curiousgeekspm.com)** | Founder/builder of a community-led product discovery platform for builders, PMs & makers | Launched V1 with submission & content-discovery flows · evolving toward a Product Hunt-style discovery loop |
+| **Wireframy** | Turns a rough product idea into a clean, shareable wireframe in minutes | Side product · built solo |
+| **Star Tracker** (plugin) | A plugin that tracks your stars and shows how they grow over time | Side product · built solo |
 
 ---
 
@@ -81,7 +84,7 @@ Product Manager with **2+ years** across B2B SaaS, product analytics, and workfl
 
 Always up for talking product, swapping notes, or hearing about an interesting problem.
 
-- 💼 LinkedIn: [linkedin.com/in/divyarajmurugan](https://www.linkedin.com/in/divyarajmurugan/)
+- 💼 LinkedIn: [linkedin.com/in/divyaraj-murugan](https://www.linkedin.com/in/divyaraj-murugan/)
 - 🌐 Portfolio: [curiousgeekspm.com](https://curiousgeekspm.com)
 - ✉️ Email: divyaraj12112001@gmail.com
 
