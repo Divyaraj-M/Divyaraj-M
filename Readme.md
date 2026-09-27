@@ -8,7 +8,7 @@
 
 ### Product Manager · B2B SaaS · Enterprise Workflows · Product Analytics
 
-Turning customer problems into shipped features — from user research and PRDs to roadmaps, launches, and post-launch analytics.
+I take customer problems from user research and PRDs through roadmap, launch and post-launch analytics.
 
 <p>
   <a href="https://www.linkedin.com/in/divyaraj-murugan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -23,20 +23,20 @@ Turning customer problems into shipped features — from user research and PRDs 
 
 ---
 
-## 🧭 About Me
+## About Me
 
-Product Manager with **2+ years** across B2B SaaS, product analytics, and workflow-heavy enterprise products. Currently an **Associate Product Manager at SurveySparrow**, working across **SparrowGenie** and **SparrowCRM** — owning AI-powered sales and CRM workflow features end to end: user research, PRDs, roadmap execution, sprint planning, and post-launch tracking.
+Product Manager with **2+ years** in B2B SaaS, product analytics and workflow-heavy enterprise products. I'm an **Associate Product Manager at SurveySparrow**, where I've worked on **SparrowGenie** and now **SparrowCRM**. I own AI sales and CRM features end to end: user research, PRDs, roadmap, sprint planning and post-launch tracking.
 
-- 🔭 Building **AI agents, integrations & CRM intelligence at [SparrowCRM](https://www.sparrowcrm.com/)** — helping sales teams close more deals instead of drowning in admin work
-- 🚀 Shipped the **0→1 RFP Automation module** at [SparrowGenie](https://sparrowgenie.com/) — AI-driven proposal generation and multi-role sales workflows
-- 🌱 Founder of **[Curious Geeks](https://curiousgeekspm.com)** — a community-led product discovery platform for builders, PMs, and makers
-- 🧩 Building side products: **Wireframy** and the **Star Tracker** plugin
-- 💬 Ask me about **product discovery, roadmapping, AI agents, multi-role workflows, A/B testing, and product analytics**
+- 🔭 Building **AI agents and integrations at [SparrowCRM](https://www.sparrowcrm.com/)**, so sales teams spend their time closing deals instead of doing admin
+- 🚀 Shipped the **0→1 RFP Automation module** at [SparrowGenie](https://sparrowgenie.com/): AI proposal generation and multi-role sales workflows
+- 🌱 Founder of **[Curious Geeks](https://curiousgeekspm.com)**, a community-led product discovery platform for builders, PMs and makers
+- 🧩 Built two Obsidian plugins: **[Wireframy](https://community.obsidian.md/plugins/wireframy)** (lo-fi wireframing in your vault) and **[Star Tracker](https://community.obsidian.md/plugins/star-tracker)** (Jira-style sprints and boards on your notes)
+- 💬 Ask me about **product discovery, roadmapping, AI agents, multi-role workflows, A/B testing and product analytics**
 - 🎓 MBA (Systems) · B.Sc. Psychology
 
 ---
 
-## 🛠️ Toolkit & Skills
+## Toolkit & Skills
 
 **Product**
 
@@ -68,26 +68,22 @@ Product Manager with **2+ years** across B2B SaaS, product analytics, and workfl
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it is | Highlights |
 |---|---|---|
-| **[SparrowCRM](https://www.sparrowcrm.com/) — AI Agents & CRM Intelligence** | AI agents, integrations & CRM intelligence at SurveySparrow — surfacing insights and automating admin work so sales teams focus on closing deals | Building agentic workflows across the CRM · integrations connecting sales tools into one intelligent layer |
-| **[SparrowGenie](https://sparrowgenie.com/) — RFP Automation** | 0→1 AI-powered proposal generation & sales workflow module at SurveySparrow | Shipped 3 feature sets in <4 months · cut proposal turnaround **25%** · role-based notification engine reduced alert volume **60%** |
-| **[Curious Geeks](https://curiousgeekspm.com)** | Founder/builder of a community-led product discovery platform for builders, PMs & makers | Launched V1 with submission & content-discovery flows · evolving toward a Product Hunt-style discovery loop |
-| **Wireframy** | Turns a rough product idea into a clean, shareable wireframe in minutes | Side product · built solo |
-| **Star Tracker** (plugin) | A plugin that tracks your stars and shows how they grow over time | Side product · built solo |
+| **[SparrowCRM](https://www.sparrowcrm.com/)** (AI Agents & Integrations) | AI agents and integrations inside SurveySparrow's CRM that take admin work off sales teams and surface what needs attention on each deal | Agent workflows across the CRM · integrations that bring outside sales tools into the CRM |
+| **[SparrowGenie](https://sparrowgenie.com/)** (RFP Automation) | 0→1 AI proposal generation and sales workflow module at SurveySparrow | Shipped 3 feature sets in <4 months · cut proposal turnaround **25%** · role-based notifications cut alert volume **60%** |
+| **[Curious Geeks](https://curiousgeekspm.com)** | Community-led product discovery platform for builders, PMs and makers, which I founded and built | Launched V1 with submission and discovery flows · moving toward a Product Hunt-style discovery loop |
+| **[Wireframy](https://community.obsidian.md/plugins/wireframy)** (Obsidian plugin) | Lo-fi wireframing inside your Obsidian vault. Drag-and-drop screens and flows, saved as plain `.wire` files next to your notes | 82 UI widgets · 161 icons · 3 hand-drawn skins · optional AI that turns screenshots into editable wireframes |
+| **[Star Tracker](https://community.obsidian.md/plugins/star-tracker)** (Obsidian plugin) | Jira-style tracker built on Obsidian Bases. Your tasks stay plain Markdown notes | Kanban boards · sprints with burndown & velocity · dashboard · epic timeline · one-click weekly update |
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-Always up for talking product, swapping notes, or hearing about an interesting problem.
+Happy to talk product, or to hear about a problem you're working on.
 
 - 💼 LinkedIn: [linkedin.com/in/divyaraj-murugan](https://www.linkedin.com/in/divyaraj-murugan/)
 - 🌐 Portfolio: [curiousgeekspm.com](https://curiousgeekspm.com)
 - ✉️ Email: divyaraj12112001@gmail.com
-
-<div align="center">
-  <i>Thanks for stopping by — let's build something great. ✨</i>
-</div>
